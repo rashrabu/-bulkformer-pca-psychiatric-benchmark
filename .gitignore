@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local analysis outputs
+.DS_Store
+checkpoints/
+
+# Local participant-level inputs and run exports: review before sharing
+BulkFormer_original_saved_inputs.zip
+BulkFormer_Additional_Analyses_Results.zip
+original_saved_results/
+checkpoints/
